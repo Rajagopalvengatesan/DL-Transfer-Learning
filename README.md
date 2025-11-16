@@ -61,9 +61,9 @@ Softmax Activation → Class Probabilities
 
 ## PROGRAM
 
-### Name: Sanjay C
+### Name: RAJA GOPAL V
 
-### Register Number: 212223240150
+### Register Number: 212223240134
 
 ```python
 
